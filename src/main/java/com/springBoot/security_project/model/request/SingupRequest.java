@@ -1,4 +1,4 @@
-package com.springBoot.security_project.model;
+package com.springBoot.security_project.model.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
